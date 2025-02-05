@@ -46,17 +46,24 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<div align="center" >
+  <span align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=sanjay-yadav-05&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-yadav-05&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay-yadav-05&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+</span>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-yadav-05&theme=radical" alt="GitHub Streak"/>
+</div>
+
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ✨ **Thanks for visiting!** 🚀
 
