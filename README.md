@@ -40,8 +40,47 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,bootstrap,tailwind,git,aws,gcp,python,flask,cpp,java,sqlite,postman,vscode,linux" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=p5js" alt="p5js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" />
 </p>
+
+
+
+
 
 ---
 
