@@ -51,6 +51,7 @@
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50" />
