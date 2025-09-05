@@ -8,7 +8,7 @@
 ---
 
 ### 🔥 About Me:
-- 🌱 Currently learning **Next.js**
+- 🌱 Currently learning **Spring Boot**
 - 💼 Explore my work at [Portfolio](https://yadav-sanjay.vercel.app/)
 - 📫 Reach me at **sy163182@gmail.com**
 
@@ -71,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="SpringBoot" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" />
